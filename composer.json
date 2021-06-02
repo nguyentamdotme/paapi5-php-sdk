@@ -1,6 +1,6 @@
 {
     "name": "amzn/paapi5-php-sdk",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "ProductAdvertisingAPI 5.0 PHP SDK",
     "keywords": [
         "amazon",
@@ -23,6 +23,7 @@
             "homepage": "https://webservices.amazon.com/paapi5/documentation/index.html"
         }
     ],
+    "minimum-stability": "master",
     "require": {
         "php": ">=5.5",
         "ext-curl": "*",
